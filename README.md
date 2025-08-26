@@ -1,11 +1,11 @@
 
 <h3 align="center">A passionate developer</h3>
 
-- 👋 Hi, I’m @SergioGC23
-- 👀 I’m interested in Apple news, Xcode, Swift, Python and cyber security.
-- 🌱 I’m currently learning Swift
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me developer@sergiogc23.com or on social media @SergioGC23
+👋 Hi, I’m @SergioGC23
+👀 I’m interested in Apple news, Xcode, Swift, Python and cyber security.
+🌱 I’m currently learning Swift
+💞️ I’m not looking to collaborate
+📫 How to reach me developer@sergiogc23.com or on social media @SergioGC23
 
 
 
